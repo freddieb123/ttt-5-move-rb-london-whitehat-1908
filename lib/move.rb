@@ -12,5 +12,5 @@ def input_to_index(n)
 end
 
 def move
-  board = Array.new(9).map each { |e| return "e"  }
+  board = Array.new(9).map { |e| return "e"  }
 end
